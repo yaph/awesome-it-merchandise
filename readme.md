@@ -1,6 +1,6 @@
 # Awesome IT Merchandise
 
-A curated list of merchandise products, such as mugs, t-shirts, stickers and posters, related to information technology. All links either point to official products offered by organisations or portfolio pages of artists who created the original versions of the designs. No links to shops such as Amazon, Redbubble and Teespring to ensure that original creators and organisations are supported.
+A curated list of merchandise products, such as mugs, t-shirts, stickers and posters, related to information technology. All links either point to official products offered by organizations or portfolio pages of artists who created the original versions of the designs. No links to shops such as Amazon, Redbubble and Teespring to ensure that original creators and organizations are supported.
 
 ## Contents
 
@@ -18,6 +18,7 @@ A curated list of merchandise products, such as mugs, t-shirts, stickers and pos
 ## Programming Languages
 
 * [Python Merchandise](https://www.python.org/community/merchandise/) - A list of manufacturers who pledged to donate a portion of the proceeds from their Python-branded sales to the Python Software Foundation.
+* [Golang Merchandise](https://go-store.io/) - The official Go swag and merch store that donates 100% of proceeds to GoBridge, a non-profit organization focused on building bridges to educate underrepresented groups by teaching technical skills and fostering diversity in the Go community.
 
 ## Officially Endorsed Shops
 
