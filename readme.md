@@ -13,6 +13,7 @@ A curated list of merchandise products, such as mugs, t-shirts, stickers and pos
 * [Electronic Frontier Foundation Shop](https://supporters.eff.org/shop) - Stickers, posters and clothing to support the work on defending civil liberties in the digital world.
 * [Free Software Foundation Shop](https://shop.fsf.org/) - Books, mugs, stickers and clothing to support the work on promoting computer user freedom.
 * [Internet Archive Store](https://store.archive.org/) - Clothing, accessories and more to support the digital library of Internet sites and other cultural artifacts in digital form.
+* [LFC - Loaves, Fishes & Computers](https://www.loavesfishescomputers.org/) - Our locally rebuilt and incredibly reliable computers are available to qualified low-income, older than 65 years of age, or mentally/physically challenged people at a low-cost. All our our computers are English & Spanish Bilingual.
 * [Wikipedia Store](https://store.wikimedia.org/) - Buy Wikipedia apparel to thank a volunteer who helps make Wikipedia possible.
 
 ## Programming Languages
