@@ -5,7 +5,7 @@ A curated list of merchandise products, such as mugs, t-shirts, stickers and pos
 ## Contents
 
 * [Nonprofit Organizations](#nonprofit-organizations)
-* [Officially Endorsed Shops](officially-endorsed-shops)
+* [Officially Endorsed Shops](#officially-endorsed-shops)
 * [Programming Languages](#programming-languages)
 
 ## Nonprofit Organizations
@@ -15,13 +15,13 @@ A curated list of merchandise products, such as mugs, t-shirts, stickers and pos
 * [Internet Archive Store](https://store.archive.org/) - Clothing, accessories and more to support the digital library of Internet sites and other cultural artifacts in digital form.
 * [Wikipedia Store](https://store.wikimedia.org/) - Buy Wikipedia apparel to thank a volunteer who helps make Wikipedia possible.
 
-## Programming Languages
-
-* [Python Merchandise](https://www.python.org/community/merchandise/) - A list of manufacturers who pledged to donate a portion of the proceeds from their Python-branded sales to the Python Software Foundation.
-
 ## Officially Endorsed Shops
 
 * [FreeWear.org](https://www.freewear.org/) - Clothing, mugs and stickers with Free and Open Source Software designs, that donates a share of the profit the respective organizations.
+
+## Programming Languages
+
+* [Python Merchandise](https://www.python.org/community/merchandise/) - A list of manufacturers who pledged to donate a portion of the proceeds from their Python-branded sales to the Python Software Foundation.
 
 ## Contribute
 
