@@ -4,9 +4,13 @@ A curated list of merchandise products, such as mugs, t-shirts, stickers and pos
 
 ## Contents
 
-* [Nonprofit Organizations](#nonprofit-organizations)
-* [Officially Endorsed Shops](officially-endorsed-shops)
-* [Programming Languages](#programming-languages)
+- [Awesome IT Merchandise](#awesome-it-merchandise)
+  - [Contents](#contents)
+  - [Nonprofit Organizations](#nonprofit-organizations)
+  - [Programming Languages and Frameworks](#programming-languages-and-frameworks)
+  - [Officially Endorsed Shops](#officially-endorsed-shops)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Nonprofit Organizations
 
@@ -15,8 +19,9 @@ A curated list of merchandise products, such as mugs, t-shirts, stickers and pos
 * [Internet Archive Store](https://store.archive.org/) - Clothing, accessories and more to support the digital library of Internet sites and other cultural artifacts in digital form.
 * [Wikipedia Store](https://store.wikimedia.org/) - Buy Wikipedia apparel to thank a volunteer who helps make Wikipedia possible.
 
-## Programming Languages
+## Programming Languages and Frameworks
 
+* [Gatsby](https://store.gatsbyjs.org/) - Official store for Gatsby, a free and open source framework based on React.
 * [Python Merchandise](https://www.python.org/community/merchandise/) - A list of manufacturers who pledged to donate a portion of the proceeds from their Python-branded sales to the Python Software Foundation.
 
 ## Officially Endorsed Shops
