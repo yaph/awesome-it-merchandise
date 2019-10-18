@@ -13,10 +13,10 @@ A curated list of merchandise offerings related to information technology. All l
 
 * [Apache Software Foundation Merchandise](https://www.apache.org/foundation/buy_stuff.html) - A list of entities who sell Apache-branded merchandise and contribute profits back to the ASF.
 * [Electronic Frontier Foundation Shop](https://supporters.eff.org/shop) - Stickers, posters and clothing to support the work on defending civil liberties in the digital world.
-* [Open Source Initiative](https://opensource.org/store) - T-shirt store to support open source advocacy and inter community work
 * [Free Software Foundation Shop](https://shop.fsf.org/) - Books, mugs, stickers and clothing to support the work on promoting computer user freedom.
 * [Internet Archive Store](https://store.archive.org/) - Clothing, accessories and more to support the digital library of Internet sites and other cultural artifacts in digital form.
 * [NumFOCUS Shop](https://shop.spreadshirt.com/numfocus/) - Clothing and accessories featuring logos of projects like julia, matplotlib, pandas and pydata that are supported by NumFOCUS. Referred from: https://numfocus.org/
+* [Open Source Initiative Store](https://opensource.org/store) - T-shirt store to support open source advocacy and inter community work.
 * [Wikipedia Store](https://store.wikimedia.org/) - Buy Wikipedia apparel to thank a volunteer who helps make Wikipedia possible.
 
 ## Officially Endorsed Shops
