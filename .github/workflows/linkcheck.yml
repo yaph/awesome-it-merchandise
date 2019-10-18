@@ -1,6 +1,8 @@
 name: Link Check
 
-on: push
+on:
+  schedule:
+    - cron:  '0 2 1 * *'  # Run on the first day of each month at 2:00 UTC
 
 jobs:
   linkcheck:
