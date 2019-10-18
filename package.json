@@ -1,0 +1,22 @@
+{
+  "name": "awesome-it-merchandise",
+  "version": "1.0.0",
+  "description": "A curated list of information technology merchandise offerings that benefit original creators and projects.",
+  "scripts": {
+    "test": "markdownlint readme.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaph/awesome-it-merchandise.git"
+  },
+  "author": "Ramiro Gómez",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/yaph/awesome-it-merchandise/issues"
+  },
+  "homepage": "https://github.com/yaph/awesome-it-merchandise#readme",
+  "devDependencies": {
+    "markdownlint": "^0.17.0",
+    "markdownlint-cli": "^0.18.0"
+  }
+}

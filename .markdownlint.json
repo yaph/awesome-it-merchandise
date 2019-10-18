@@ -1,0 +1,8 @@
+{
+  "default": true,
+  "heading-style": "atx",
+  "line_length": false,
+  "no-bare-urls": false,
+  "ul-style": "asterisk",
+  "whitespace": false
+}
