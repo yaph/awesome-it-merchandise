@@ -2,7 +2,7 @@ name: Link Check
 
 on:
   schedule:
-    - cron:  '0 2 1 * *'  # Run on the first day of each month at 2:00 UTC
+    - cron: '0 2 1 * *'  # Run on the first day of each month at 2:00 UTC
 
 jobs:
   linkcheck:
@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
+    - name: Setup Node.js
+      uses: actions/setup-node@master
+      with:
+        node-version: 12.x
     - name: Check links in README
       run: |
         npm install
