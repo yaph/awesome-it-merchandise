@@ -6,7 +6,6 @@ on:
 
 jobs:
   linkcheck:
-    name: Link Check
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
