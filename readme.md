@@ -1,6 +1,6 @@
 # Awesome IT Merchandise
 
-A curated list of merchandise offerings related to information technology. All links either point to official organisations, shops that donate part of the profit back to them or portfolio pages of artists who created the original designs. No links to individual products in shops such as Amazon, Redbubble and Teespring.
+A curated list of merchandise offerings related to information technology. All links either point to official organizations, shops that donate part of the profit back to them or portfolio pages of artists who created the original designs. No links to individual products in shops such as Amazon, Redbubble and Teespring.
 
 ## Contents
 
