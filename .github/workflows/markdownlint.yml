@@ -11,7 +11,7 @@ jobs:
       uses: actions/setup-node@master
       with:
         node-version: 12.x
-    - name: npm install and test
+    - name: Markdown Lint README
       run: |
         npm install
         npm run markdownlint
