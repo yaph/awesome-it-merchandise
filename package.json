@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "A curated list of information technology merchandise offerings that benefit original creators and projects.",
   "scripts": {
-    "test": "markdownlint readme.md"
+    "linkcheck": "markdown-link-check README.md",
+    "test": "markdownlint README.md"
   },
   "repository": {
     "type": "git",
