@@ -19,6 +19,7 @@ A curated list of merchandise products, such as mugs, t-shirts, stickers and pos
 ## Programming Languages
 
 * [Python Merchandise](https://www.python.org/community/merchandise/) - A list of manufacturers who pledged to donate a portion of the proceeds from their Python-branded sales to the Python Software Foundation.
+* [Golang Merchandise](https://go-store.io/) - Official store selling products to sponsor GoBridge.
 
 ## Officially Endorsed Shops
 
