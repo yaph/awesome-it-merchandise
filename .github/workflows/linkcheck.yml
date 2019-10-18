@@ -7,6 +7,9 @@ jobs:
     name: Link Check
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@master
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
     - name: Check links in README
       run: |
         npm install
