@@ -1,8 +1,12 @@
 {
   "default": true,
-  "heading-style": "atx",
+  "heading-style": true,
   "line_length": false,
   "no-bare-urls": false,
-  "ul-style": "asterisk",
+  "no-empty-links": true,
+  "no-hard-tabs": true,
+  "ul-indent": true,
+  "ul-start-left": true,
+  "ul-style": true,
   "whitespace": false
 }
