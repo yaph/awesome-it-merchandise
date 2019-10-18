@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/yaph/awesome-it-merchandise#readme",
   "devDependencies": {
+    "markdown-link-check": "^3.8.0",
     "markdownlint": "^0.17.0",
     "markdownlint-cli": "^0.18.0"
   }
