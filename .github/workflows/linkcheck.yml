@@ -1,0 +1,13 @@
+name: Link Check
+
+on: push
+
+jobs:
+  linkcheck:
+    name: Link Check
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check links in README
+      run: |
+        npm install
+        npm run linkcheck
