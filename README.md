@@ -33,6 +33,10 @@ A curated list of merchandise offerings related to information technology. All l
 * [The Joomla! Shop](https://community.joomla.org/the-joomla-shop.html) - Clothing and accessories for the Joomla! Content Management System.
 * [webpack Shop](https://webpack.threadless.com/) - Custom shirts and prints featuring the logo of the JavaScript module bundler. Referred from: https://webpack.js.org/
 
+## Open Source Firmware
+
+* [Quantum Mechanical Keyboard](https://olkb.com/parts) - Official store for QMK and OLKB projects, focused on making an Open Source keyboard firmware and hardware.
+
 ## Programming Languages
 
 * [Go Store](https://go-store.io/) - Official swag and merch store for the Go programmming language with 100% of proceeds donated to the GoBridge nonprofit organization.
