@@ -6,6 +6,7 @@ A curated list of merchandise offerings related to information technology. All l
 
 * [Nonprofit Organizations](#nonprofit-organizations)
 * [Officially Endorsed Shops](#officially-endorsed-shops)
+* [Open Source Firmware](#open-source-firmware)
 * [Open Source Software](#open-source-software)
 * [Programming Languages](#programming-languages)
 
@@ -23,6 +24,10 @@ A curated list of merchandise offerings related to information technology. All l
 
 * [FreeWear.org](https://www.freewear.org/) - Clothing, mugs and stickers with Free and Open Source Software designs, with a share of the profit donated to the respective organizations.
 * [HELLOTUX](https://www.hellotux.com/) - Buy embroidered Linux and free software t-shirts in this shop that supports free software projects and developers.
+
+## Open Source Firmware
+
+* [Quantum Mechanical Keyboard](https://olkb.com/parts) - Official store for QMK and OLKB projects, focused on making an Open Source keyboard firmware and hardware.
 
 ## Open Source Software
 
