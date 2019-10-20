@@ -21,12 +21,12 @@ A curated list of merchandise offerings related to information technology. All l
 
 ## Officially Endorsed Shops
 
-* [The Blender Store](https://store.blender.org/) - Buy clothes, stickers, books, accessories and more to support Blender projects (open movies and software development). The Blender Store is operated by Blender Institute in Amsterdam, the Netherlands.
 * [FreeWear.org](https://www.freewear.org/) - Clothing, mugs and stickers with Free and Open Source Software designs, with a share of the profit donated to the respective organizations.
 * [HELLOTUX](https://www.hellotux.com/) - Buy embroidered Linux and free software t-shirts in this shop that supports free software projects and developers.
 
 ## Open Source Software
 
+* [Blender Store](https://store.blender.org/) - Buy clothes, stickers, books, accessories and more to support Blender projects (open movies and software development). The Blender Store is operated by Blender Institute in Amsterdam, the Netherlands.
 * [Gentoo Linux Merchandise](https://www.gentoo.org/inside-gentoo/stores/) - Stores offering Gentoo products, some of them have been licensed to use the Gentoo Logo by either the Gentoo Foundation Inc or Friends of Gentoo e.V.
 * [GNOME Merchandise](https://www.gnome.org/merchandise/) - A list of vendors offering GNOME merchandise, some of them donate part of their profit to the GNOME Foundation.
 * [Inkscape Merchandise](https://inkscape.org/shop/) - A list of shops offering merchandise for the free vector graphics software.
