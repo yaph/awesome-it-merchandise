@@ -13,6 +13,7 @@ A curated list of merchandise offerings related to information technology. All l
 ## Nonprofit Organizations
 
 * [Apache Software Foundation Merchandise](https://www.apache.org/foundation/buy_stuff.html) - A list of entities who sell Apache-branded merchandise and contribute profits back to the ASF.
+* [Code.org](https://www.code.org/shop) - T-shirts, stickers, buttons, swag kits, posters, and classroom supplies to promote Code.org, organizers of the annual Hour of Code.
 * [Electronic Frontier Foundation Shop](https://supporters.eff.org/shop) - Stickers, posters and clothing to support the work on defending civil liberties in the digital world.
 * [Free Software Foundation Shop](https://shop.fsf.org/) - Books, mugs, stickers and clothing to support the work on promoting computer user freedom.
 * [Internet Archive Store](https://store.archive.org/) - Clothing, accessories and more to support the digital library of Internet sites and other cultural artifacts in digital form.
