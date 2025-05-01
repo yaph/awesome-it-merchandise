@@ -10,7 +10,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@master
       with:
-        node-version: 12.x
+        node-version: 22.x
     - name: Markdown Lint README
       run: |
         npm install
